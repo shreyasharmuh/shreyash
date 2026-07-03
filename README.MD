@@ -16,26 +16,24 @@
 
 <br>
 
-<a href="https://github.com/shreyasharmuh">
-<img src="./assets/social/github.svg" width="22">
-</a>
+<div align="center">
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shreyash-sharma-562a333a5/">
-<img src="./assets/social/linkedin.svg" width="22">
+  <img src="./assets/social/linkedin.svg" width="34" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/shreyasharmuh/">
-<img src="./assets/social/instagram-logo.svg" width="22">
+  <img src="./assets/social/instagram-logo.svg" width="34" alt="Instagram"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:deadpoison75@gmail.com">
-<img src="./assets/social/mail.svg" width="22">
+  <img src="./assets/social/mail.svg" width="34" alt="Email"/>
 </a>
 
 </div>
