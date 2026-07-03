@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero/hero.png" width="100%" alt="Editorial Hero"/>
+  <img src="./assets/hero/hero1.png" width="100%" alt="Editorial Hero"/>
 </p>
 
 <br>
@@ -114,6 +114,8 @@ Luxury Brand Systems
 - ORACLE
 - VELSAINTE
 - DIE
+- XSS
+- ACADEMIS
 
 ### LEARNING
 
