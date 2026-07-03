@@ -144,18 +144,6 @@ Luxury Brand Systems
 
 ---
 
-# GITHUB ANALYTICS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyasharmuh&show_icons=false&hide_border=true&bg_color=00000000&title_color=222222&text_color=666666"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasharmuh&layout=compact&hide_border=true&bg_color=00000000&title_color=222222&text_color=666666"/>
-
-</p>
-
----
-
 # DIRECTORY
 
 | PLATFORM | LINK |
